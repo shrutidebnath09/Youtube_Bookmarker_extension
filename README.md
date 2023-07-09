@@ -9,7 +9,7 @@ YouTube Bookmarker is a Chrome extension that enhances the experience of watchin
 4. Delete bookmarks
 
 # Prerequisites
-Google chrome browser
+Google Chrome browser
 
 # Tech Stack
 Html
