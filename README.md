@@ -7,3 +7,6 @@ YouTube Bookmarker is a Chrome extension that enhances the experience of watchin
 2. View and manage saved bookmarks
 3. Easy navigation to specific timestamps
 4. Delete bookmarks
+
+# Prerequisites
+Google chrome browser
