@@ -10,3 +10,8 @@ YouTube Bookmarker is a Chrome extension that enhances the experience of watchin
 
 # Prerequisites
 Google chrome browser
+
+# Tech Stack
+Html
+Css
+Javascript
